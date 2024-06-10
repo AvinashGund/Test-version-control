@@ -1,3 +1,6 @@
+'''' 
+This is bubble sort in python created by Avinash 
+'''
 def bubble_sort(arr):
     n = len(arr)
 
